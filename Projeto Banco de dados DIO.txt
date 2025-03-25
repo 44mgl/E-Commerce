@@ -1,0 +1,10 @@
+PROJETO BANCO DE DADOS E-COMMERCE
+
+Contexto: Levantamento de Requisitos
+Projeto Conceitual: Modelo ER
+Projeto Lógico: Modelo Relacional
+
+Modelando Ordem de serviço:
+
+Contexto: Dentro de uma empresa os clientes demanadam ao helpdesk algumas ações
+Essas ações são convertidas em ordem de serviço
